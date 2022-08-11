@@ -1,0 +1,14 @@
+id: "d/403447813"
+title: "YG044_Yichen_Guo_07172022"
+metadata: "{\"header\":{\"Base Pressure (Torr)\":\"8e-5\",\"Chamber\":\"Laser 1C\",\"Cool Down Atmosphere\":\"Oxygen\",\"Date\":\"07/17/2022\",\"Growth ID\":\"YG044\",\"Notes\":\"5th continuous growth set - 3rd sample (treated_set_2 - s3)\",\"Path\":\"C:/Image/\",\"Substrate_1\":\"SrTiO3\",\"User Name\":\"Yichen_Guo\",\"time\":\"14:56:34\"},\"target_1\":{\"Aperture\":\"12.5\",\"Atmosphere Gas\":\"Oxygen\",\"Attenuator(mm)\":\"1thin\",\"Focus(mm)\":\"130\",\"Frequency(Hz)\":\"10\",\"Laser Energy(mJ)\":\"100\",\"Laser Voltage(kV)\":\"19.5\",\"Measured Energy Mean(mJ)\":\"100\",\"Measured Energy Std(mJ)\":\"2.84mJ\",\"Pre-Frequency(Hz)\":\"20\",\"Pre-Gas Atmosphere\":\"Oxygen\",\"Pre-Pressure(mTorr)\":\"200\",\"Pre-Pulses\":\"1500\",\"Pre-Temperature(\302\260C)\":\"700\",\"Pressure(mTorr)\":\"200\",\"Pulses\":\"3500\",\"Target Height(mm)\":\"128.4\",\"Target Material\":\"SrRuO3(Berkeley_new)\",\"Temperature(\302\260C)\":\"700\"}}"
+source: "f1507eb2-9b44-11ec-bf8a-ab28bf5d96bb/C/Image/YG044_Yichen_Guo_07172022.h5"
+repo_id: "repo/lehigh-nhi"
+size: 1832.0
+ext: ".h5"
+ext_auto: true
+ct: 1658097066
+ut: 1658097072
+dt: 1658097072
+owner: "p/2022_pld_plume_recording"
+creator: "u/yig319"
+notes: 0
